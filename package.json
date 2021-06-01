@@ -50,7 +50,7 @@
     "grunt-env": "^0.4.1",
     "grunt-nodemon": "0.2.1",
     "load-grunt-tasks": "^0.4.0",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.20",
     "mean-connect-mongo": "0.4.3",
     "gridfs-stream": "^0.5.1",
     "mean-logger": "0.0.1",
